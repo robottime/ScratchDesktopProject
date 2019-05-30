@@ -1,0 +1,12 @@
+[submodule "scratch-desktop"]
+	path = scratch-desktop
+	url = git@github.com:robottime/scratch-desktop.git
+[submodule "scratch-blocks"]
+	path = scratch-blocks
+	url = git@github.com:robottime/scratch-blocks.git
+[submodule "closure-library"]
+	path = closure-library
+	url = git@github.com:google/closure-library.git
+[submodule "scratch-gui"]
+	path = scratch-gui
+	url = git@github.com:robottime/scratch-gui.git
